@@ -12,6 +12,7 @@
 - 📫 How to reach me **zlatin89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/zlatin-ivanov-954957190/">LinkedIn</a>
 <p align="left">
 </p>
 
